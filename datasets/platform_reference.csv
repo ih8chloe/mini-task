@@ -1,0 +1,5 @@
+source_system,platform_name,is_decommissioned
+WLMS2,WLMS 2.0,FALSE
+OneView,OneView Platform,FALSE
+Vlocity,Salesforce Vlocity,FALSE
+LegacyX,Legacy X,TRUE
